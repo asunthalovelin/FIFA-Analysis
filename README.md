@@ -1,4 +1,3 @@
-## FIFA-Analysis
 ## Unveiling Football Insights with Tableau: Exploring FIFA Dataset through Exploratory Data Analysis 
 
 **Background:**
@@ -6,9 +5,11 @@
 A sports analytics company is interested in gaining insights from a comprehensive FIFA football dataset. The dataset contains information about players, teams, matches, and various performance metrics from different seasons of FIFA tournaments. The company aims to utilize Tableau to perform Exploratory Data Analysis (EDA) on this dataset to uncover trends, patterns, and actionable insights.
 
 **Objective:**
+
 The primary objective of this case study is to conduct an EDA using Tableau on the FIFA football dataset. The analysis will focus on player attributes, team performance, match outcomes, and any interesting correlations. The insights derived from this analysis will help the company make data-driven decisions, support scouting efforts, and provide insights for tactical strategies.
 
 **Data Collection:**
+
 The company has obtained a FIFA football dataset containing player attributes such as age, skill ratings, position, and teams they belong to. The dataset also includes team performance metrics and match statistics for various FIFA tournaments.
 
 
